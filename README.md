@@ -42,6 +42,18 @@ Foreign key relationships were implemented to maintain data integrity.
 
 ---
 
+## 🔁 Retention & Engagement Analysis
+
+- Identified customer acquisition month (first purchase logic)
+- Calculated monthly active customers
+- Segmented new vs returning customers
+- Measured month-over-month retained customers
+- Calculated retention rate percentage
+- Analyzed customer lifetime (in months)
+- Evaluated purchase frequency using window functions (`LAG`, `DATEDIFF`)
+
+---
+
 ## 🛍 Product & Category Analysis
 
 - Calculated revenue by category
