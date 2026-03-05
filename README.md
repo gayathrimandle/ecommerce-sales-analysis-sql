@@ -54,6 +54,16 @@ Foreign key relationships were implemented to maintain data integrity.
 
 ---
 
+## 📈 Sales Performance Analysis
+
+- Analyzed product-level revenue performance
+- Identified top 10 and lowest performing products
+- Evaluated category revenue contribution
+- Analyzed geographic sales performance by city
+- Ranked products by revenue using SQL window functions
+
+---
+
 ## 🛍 Product & Category Analysis
 
 - Calculated revenue by category
